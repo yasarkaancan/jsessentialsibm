@@ -1,4 +1,4 @@
-let books = []
+let books = []  
 
 function addBook() {
     const bookName = document.getElementById('bookName').value;
